@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[32,)"
+[[mods]]
+modId="cutscene"
+version="${file.jarVersion}"
+displayName="Cut Scene"
+authors="ThatGravyBoat"
+description='''
+Allows for custom cutscenes for modpack devs.
+'''
